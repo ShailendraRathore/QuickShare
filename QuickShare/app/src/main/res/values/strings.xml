@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quick Share</string>
+    <string name="upload">Upload</string>
+    <string name="download">Download</string>
+    <string name="enter_file_id">Enter File ID</string>
+    <string name="preference_file">com.viratara.android.quickshare.preference_file</string>
+
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_read_me">read_me</string>
+    <string name="readme">* Files Uploaded will be deleted after 1 hour, \n *Please do not upload any confidential files, \n*The developer will not be responsible for any data loss or leak or misuse of confidential information </string>
+</resources>
